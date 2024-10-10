@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Pastikan form terhubung ke event listener setelah DOM terload
     const form = document.getElementById('tempForm');
     const resultDiv = document.getElementById('result');
 
